@@ -1,6 +1,6 @@
 # Programacion-con-LLMs
 
-Este repositorio contiene la Fase 1 del proyecto de programacion con LLMs establecido para el actual semestre 2026-1 correspondiente a la asignatura Modelo y Simulacion de Ssitemas I. 
+Este repositorio contiene la Fase 1 del proyecto de programacion con LLMs establecido para el actual semestre 2026-1 correspondiente a la asignatura Modelo y Simulacion de Sistemas I. 
 
 ## 👤 Información del Estudiante
 ---
