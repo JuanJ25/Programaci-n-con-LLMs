@@ -5,7 +5,7 @@ Este repositorio contiene la Fase 1 del proyecto de programacion con LLMs establ
 ## 👤 Información del Estudiante
 ---
 * **Nombre**: Juan Jose Paternina Cuava
-* **Correo Institucional**: juanj.paternina@udea.edu.com
+* **Correo Institucional**: juanj.paternina@udea.edu.co
 * **Institución**: Universidad de Antioquia
 
 ## 📁 Estructura del Repositorio
