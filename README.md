@@ -1,3 +1,3 @@
-# Programaci-n-con-LLMs
+# Programacion-con-LLMs
 - Estudiante: Juan Jose Paternina Cuava
 - Correo: juanj.paternina@udea.edu.co
