@@ -26,7 +26,7 @@ def generar_caso_de_uso_detectar_fraude_multivariado():
     return input_data, X_clean
 
 
-# --- BLOQUE DE PRUEBA 0002 (VERSIÓN COMPLETA) ---
+# --- CASO DE PRUEBA ---
 if __name__ == "__main__":
     input_data, output_data = generar_caso_de_uso_detectar_fraude_multivariado()
     
