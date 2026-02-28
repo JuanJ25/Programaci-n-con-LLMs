@@ -10,7 +10,7 @@ Este repositorio contiene la Fase 1 del proyecto de programacion con LLMs establ
 
 ## 📁 Estructura del Repositorio
 ---
-El proyecto se organiza siguiendo una jerarquía estricta para separar la lógica de las preguntas de las futuras respuestas:
+El proyecto se organiza siguiendo una jerarquía estricta previamente establecida para este proyecto:
 
 ```text
 .
