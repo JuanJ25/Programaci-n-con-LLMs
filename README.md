@@ -24,8 +24,8 @@ El proyecto mantiene una organización modular para separar claramente los enunc
 │   ├── question-0004.txt
 │   └── question-0004-usecase-generator.py
 ├── myanswers/
-│   ├── answer-0123.py
-│   ├── answer-0087.py
-│   ├── answer-0012.py
-│   └── answer-0289.py
+│   ├── answer-0020.py
+│   ├── answer-0163.py
+│   ├── answer-0198.py
+│   └── answer-0381.py
 └── README.md
